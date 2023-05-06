@@ -1,0 +1,34 @@
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\obj\Debug\net7.0-windows\Csharp.csproj.AssemblyReference.cache
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\obj\Debug\net7.0-windows\Csharp.Form1.resources
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\obj\Debug\net7.0-windows\Csharp.csproj.GenerateResource.cache
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\obj\Debug\net7.0-windows\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\obj\Debug\net7.0-windows\Csharp.AssemblyInfoInputs.cache
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\obj\Debug\net7.0-windows\Csharp.AssemblyInfo.cs
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\obj\Debug\net7.0-windows\Csharp.csproj.CoreCompileInputs.cache
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\bin\Debug\net7.0-windows\Csharp.exe
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\bin\Debug\net7.0-windows\Csharp.deps.json
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\bin\Debug\net7.0-windows\Csharp.runtimeconfig.json
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\bin\Debug\net7.0-windows\Csharp.dll
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\bin\Debug\net7.0-windows\Csharp.pdb
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\obj\Debug\net7.0-windows\Csharp.dll
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\obj\Debug\net7.0-windows\refint\Csharp.dll
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\obj\Debug\net7.0-windows\Csharp.pdb
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\obj\Debug\net7.0-windows\Csharp.genruntimeconfig.cache
+E:\1.Courses-Semester II - Second Year\1.3.Machine Vision\Code\MP14-Edge_Detection_Grayscale\Csharp\obj\Debug\net7.0-windows\ref\Csharp.dll
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\bin\Debug\net7.0-windows\Csharp.exe
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\bin\Debug\net7.0-windows\Csharp.deps.json
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\bin\Debug\net7.0-windows\Csharp.runtimeconfig.json
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\bin\Debug\net7.0-windows\Csharp.dll
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\bin\Debug\net7.0-windows\Csharp.pdb
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\obj\Debug\net7.0-windows\Csharp.csproj.AssemblyReference.cache
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\obj\Debug\net7.0-windows\Csharp.Form1.resources
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\obj\Debug\net7.0-windows\Csharp.csproj.GenerateResource.cache
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\obj\Debug\net7.0-windows\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\obj\Debug\net7.0-windows\Csharp.AssemblyInfoInputs.cache
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\obj\Debug\net7.0-windows\Csharp.AssemblyInfo.cs
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\obj\Debug\net7.0-windows\Csharp.csproj.CoreCompileInputs.cache
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\obj\Debug\net7.0-windows\Csharp.dll
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\obj\Debug\net7.0-windows\refint\Csharp.dll
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\obj\Debug\net7.0-windows\Csharp.pdb
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\obj\Debug\net7.0-windows\Csharp.genruntimeconfig.cache
+D:\MONHOC\KI2_NAM3\MachineVision\Project\MP14-Edge_Detection_Grayscale-main\MP14-Edge_Detection_Grayscale-main\Csharp\obj\Debug\net7.0-windows\ref\Csharp.dll
